@@ -1,7 +1,7 @@
 # **UIComposerStudio**  
 
 ### The Visual UI Builder That Turns Ideas Into Real iOS Screens — Right From Your Mac 💡📱  
-UIComposerStudio is your all‑in‑one macOS app for **designing SwiftUI interfaces visually**, previewing them instantly in real iPhone frames, and exporting **production‑ready Swift files** you can drop straight into Xcode or Swift Playgrounds.  
+UIComposerStudio is your all‑in‑one macOS app for **designing iOS interfaces visually**, previewing them instantly in real iPhone frames, and exporting **production‑ready files** you can drop straight into Xcode or Playgrounds.  
 
 ---
 
@@ -10,11 +10,11 @@ UIComposerStudio is your all‑in‑one macOS app for **designing SwiftUI interf
 ---
 
 ## ✨ **Why UIComposerStudio Exists**  
-Building SwiftUI screens shouldn’t require hours of boilerplate or a physical device. UIComposerStudio gives you a **visual canvas**, **real device previews**, and **instant SwiftUI export**, so you can focus on creativity — not syntax.  
+Building iOS screens shouldn’t require hours of boilerplate or a physical device. UIComposerStudio gives you a **visual canvas**, **real device previews**, and **instant iOS export**, so you can focus on creativity — not syntax.  
 
 
 Perfect for:
-- Designers who want real SwiftUI output  
+- Designers who want real Swift output  
 - Developers who want to prototype faster  
 - Indie creators building their first iOS app  
 - Teams who need quick UI flows for demos  
@@ -95,7 +95,7 @@ A full visual editing environment:
 
 ---
 
-## 🧩 **22 SwiftUI Elements Included**
+## 🧩 **22 Swift UI Elements Included**
 VStack • HStack • ZStack • Scroll • Text • TextField • SecureField • Toggle • Picker • DatePicker • Stepper • Progress • SF Symbol • Button • Card • Form Section • Tab Bar • Navigation Bar • Lazy Grid • Carousel • Divider • Spacer  
 
 ---
