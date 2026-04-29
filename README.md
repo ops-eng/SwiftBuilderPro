@@ -6,7 +6,7 @@ UIComposerStudio is your all‑in‑one macOS app for **designing SwiftUI interf
 
 ---
 
-![UIComposerStudio](images/Screenshot%202026-04-18%20at%2022.28.21.png)
+![UIComposerStudio](images/1.png)
 
 ---
 
@@ -22,7 +22,7 @@ Perfect for:
 
 ---
 
-![UIComposerStudio](images/Screenshot%202026-04-18%20at%2022.29.06.png)
+![UIComposerStudio](images/2.png)
 
 ---
 
@@ -73,7 +73,7 @@ Jump‑start your UI with professionally structured screens:
 
 ---
 
-![UIComposerStudio](images/Screenshot%202026-04-18%20at%2022.47.47.png)
+![UIComposerStudio](images/3.png)
 
 ---
 
@@ -128,7 +128,7 @@ Your design becomes real SwiftUI:
 
 ---
 
-![SwiftBuilderPr](images/Screenshot%202026-04-18%20at%2022.50.09.png)
+![SwiftBuilderPr](images/4.png)
 
 ---
 
@@ -174,6 +174,6 @@ UIComposerStudio speaks **19 languages**, including English, Greek, Romanian, Ja
 
 ---
 
-![UIComposerStudio](images/UIComposerStudio_2.png)
+![UIComposerStudio](images/10.png)
 
 ---
