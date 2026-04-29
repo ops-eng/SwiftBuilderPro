@@ -1,17 +1,17 @@
-# **SwiftBuilderPro**  
+# **UIComposerStudio**  
 
-# 🚀 **SwiftBuilderPro**  
+# 🚀 **UIComposerStudio**  
 ### The Visual SwiftUI Builder That Turns Ideas Into Real iOS Screens — Right From Your Mac 💡📱  
-SwiftBuilderPro is your all‑in‑one macOS app for **designing SwiftUI interfaces visually**, previewing them instantly in real iPhone frames, and exporting **production‑ready Swift files** you can drop straight into Xcode or Swift Playgrounds.  
+UIComposerStudio is your all‑in‑one macOS app for **designing SwiftUI interfaces visually**, previewing them instantly in real iPhone frames, and exporting **production‑ready Swift files** you can drop straight into Xcode or Swift Playgrounds.  
 
 ---
 
-![SwiftBuilderPro](images/Screenshot%202026-04-18%20at%2022.28.21.png)
+![UIComposerStudio](images/Screenshot%202026-04-18%20at%2022.28.21.png)
 
 ---
 
-## ✨ **Why SwiftBuilderPro Exists**  
-Building SwiftUI screens shouldn’t require hours of boilerplate or a physical device. SwiftBuilderPro gives you a **visual canvas**, **real device previews**, and **instant SwiftUI export**, so you can focus on creativity — not syntax.  
+## ✨ **Why UIComposerStudio Exists**  
+Building SwiftUI screens shouldn’t require hours of boilerplate or a physical device. UIComposerStudio gives you a **visual canvas**, **real device previews**, and **instant SwiftUI export**, so you can focus on creativity — not syntax.  
 
 
 Perfect for:
@@ -22,7 +22,7 @@ Perfect for:
 
 ---
 
-![SwiftBuilderPro](images/Screenshot%202026-04-18%20at%2022.29.06.png)
+![UIComposerStudio](images/Screenshot%202026-04-18%20at%2022.29.06.png)
 
 ---
 
@@ -73,7 +73,7 @@ Jump‑start your UI with professionally structured screens:
 
 ---
 
-![SwiftBuilderPro](images/Screenshot%202026-04-18%20at%2022.47.47.png)
+![UIComposerStudio](images/Screenshot%202026-04-18%20at%2022.47.47.png)
 
 ---
 
@@ -154,7 +154,7 @@ Your design becomes real SwiftUI:
 ---
 
 # 🌍 **Localization**
-SwiftBuilderPro speaks **19 languages**, including English, Greek, Romanian, Japanese, Arabic, Chinese (Simplified & Traditional), and more.  
+UIComposerStudio speaks **19 languages**, including English, Greek, Romanian, Japanese, Arabic, Chinese (Simplified & Traditional), and more.  
 
 
 ---
@@ -174,6 +174,6 @@ SwiftBuilderPro speaks **19 languages**, including English, Greek, Romanian, Jap
 
 ---
 
-![SwiftBuilderPro](images/SwiftBuilderPro_2.png)
+![UIComposerStudio](images/UIComposerStudio_2.png)
 
 ---
